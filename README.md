@@ -1,3 +1,4 @@
+- I'm new
 - 👋 Hi, I’m @Raeml
 - 👀 I’m interested in programmar
 - 🌱 I’m currently learning python
